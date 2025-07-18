@@ -6,7 +6,7 @@ DOMAIN:PYTHON PROGRAMMING
 DURATION: 4 WEEKS
 MENTOR: NEELA SANTHOSH KUMAR
 
-##This project implements a machine learning model to detect spam messages (unwanted or unsolicited messages) from ham messages (legitimate ones) in an SMS dataset. Using Python and Scikit-learn, the system analyzes the content of text messages and classifies them as either spam or ham AND getting a helps form YOUTUBE,CHATGPT AND DEEPSHEEKH
+##In order to distinguish between spam (unwanted or unsolicited) and ham (legitimate) messages in an SMS dataset, this project uses a machine learning model. The system classifies text messages as either spam or ham by analyzing their content using Python and Scikit-learn AND getting a helps form YOUTUBE,CHATGPT AND DEEPSHEEKH
 
 
 ##OUTPUT
